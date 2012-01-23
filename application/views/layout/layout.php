@@ -21,7 +21,7 @@
 	<script type="text/javascript" src="<?php echo base_url('js/css3-mediaqueries.js');?>"></script>
 	
 	<!-- MooTools -->
-	<script type="text/javascript" src="<?php echo base_url('js/mootools-core-1.4.2-full-compat.js');?>"></script>
+	<script type="text/javascript" src="<?php echo base_url('js/mootools-core-1.4.3-full-compat.js');?>"></script>
 </head>
 <body>
   <div id="header">
