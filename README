@@ -1,1 +1,17 @@
 This is my base starting point for setting up a CodeIgniter site.
+
+
+Items Included:
+---------------
+
+1) CodeIgniter 2.1.0 (http://codeigniter.com/) 
+    - "CodeIgniter is a powerful PHP framework with a very small footprint, built for PHP coders who need a simple and elegant toolkit to create full-featured web applications."
+
+2) Eric Meyer's Reset CSS (http://meyerweb.com/eric/tools/css/reset/)
+    - "The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on."
+
+3) 1140 Fluid CSS Grid (http://cssgrid.net/)
+    - "The 1140 grid fits perfectly into a 1280 monitor. On smaller monitors it becomes fluid and adapts to the width of the browser."
+
+4) MooTools 1.4.2 (http://mootools.net/)
+    - "MooTools is a compact, modular, Object-Oriented JavaScript framework designed for the intermediate to advanced JavaScript developer."
