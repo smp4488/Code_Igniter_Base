@@ -24,7 +24,7 @@
 	<script type="text/javascript" src="<?php echo base_url('js/mootools-core-1.4.2-full-compat.js');?>"></script>
 </head>
 <body>
-  <div id="header>
+  <div id="header">
 	 <?php $this->load->view('layout/header');?>
   </div><!-- /header -->
   
